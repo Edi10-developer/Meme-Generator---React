@@ -1,5 +1,7 @@
+![Image](./public/logo192.png)
+
 # Meme Generator 
-- Simple React App who generates Meme with text and picture.  ![Image](./public/logo192.png)
+- Simple React App who generates Meme with text and picture.
 
 
 ## Live Demo
